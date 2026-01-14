@@ -22,72 +22,72 @@
           {
             "group": "关于",
             "pages": [
-              "README"
+              "docs/00-startup"
             ]
           },
           {
             "group": "基础入门",
             "pages": [
-              "langchain4j-tutorials/01-introduction-to-langchain4j",
-              "langchain4j-tutorials/02-your-first-chat-application"
+              "docs/01-introduction-to-langchain4j",
+              "docs/02-your-first-chat-application"
             ]
           },
           {
             "group": "核心概念",
             "pages": [
-              "langchain4j-tutorials/03-deep-dive-into-chatmodel",
-              "langchain4j-tutorials/04-model-parameters-configuration",
-              "langchain4j-tutorials/05-chatmessage-types-explained",
-              "langchain4j-tutorials/06-chatmemory-conversation-management",
-              "langchain4j-tutorials/07-embedding-model-and-vectors",
-              "langchain4j-tutorials/08-embedding-store-and-vector-storage",
-              "langchain4j-tutorials/09-tools-and-function-calling",
-              "langchain4j-tutorials/10-rag-retrieval-augmented-generation",
-              "langchain4j-tutorials/11-ai-services-explained",
-              "langchain4j-tutorials/12-streaming-output-detailed"
+              "docs/03-deep-dive-into-chatmodel",
+              "docs/04-model-parameters-configuration",
+              "docs/05-chatmessage-types-explained",
+              "docs/06-chatmemory-conversation-management",
+              "docs/07-embedding-model-and-vectors",
+              "docs/08-embedding-store-and-vector-storage",
+              "docs/09-tools-and-function-calling",
+              "docs/10-rag-retrieval-augmented-generation",
+              "docs/11-ai-services-explained",
+              "docs/12-streaming-output-detailed"
             ]
           },
           {
             "group": "高级功能",
             "pages": [
-              "langchain4j-tutorials/13-classification",
-              "langchain4j-tutorials/14-json-handling",
-              "langchain4j-tutorials/15-logging",
-              "langchain4j-tutorials/16-observability",
-              "langchain4j-tutorials/17-image-models",
-              "langchain4j-tutorials/18-customizable-http-client",
-              "langchain4j-tutorials/19-structured-outputs"
+              "docs/13-classification",
+              "docs/14-json-handling",
+              "docs/15-logging",
+              "docs/16-observability",
+              "docs/17-image-models",
+              "docs/18-customizable-http-client",
+              "docs/19-structured-outputs"
             ]
           },
           {
             "group": "工程实践",
             "pages": [
-              "langchain4j-tutorials/20-testing-and-evaluation",
-              "langchain4j-tutorials/21-error-handling-and-retry",
-              "langchain4j-tutorials/22-guardrails",
-              "langchain4j-tutorials/23-spring-boot-integration",
-              "langchain4j-tutorials/24-websocket-real-time-communication",
-              "langchain4j-tutorials/25-performance-optimization"
+              "docs/20-testing-and-evaluation",
+              "docs/21-error-handling-and-retry",
+              "docs/22-guardrails",
+              "docs/23-spring-boot-integration",
+              "docs/24-websocket-real-time-communication",
+              "docs/25-performance-optimization"
             ]
           },
           {
             "group": "生产部署",
             "pages": [
-              "langchain4j-tutorials/26-security-and-authentication",
-              "langchain4j-tutorials/27-deployment-and-operations",
-              "langchain4j-tutorials/28-cost-optimization",
-              "langchain4j-tutorials/29-troubleshooting",
-              "langchain4j-tutorials/30-other-model-providers"
+              "docs/26-security-and-authentication",
+              "docs/27-deployment-and-operations",
+              "docs/28-cost-optimization",
+              "docs/29-troubleshooting",
+              "docs/30-other-model-providers"
             ]
           },
           {
             "group": "高级主题",
             "pages": [
-              "langchain4j-tutorials/31-custom-model-integration",
-              "langchain4j-tutorials/32-local-model-deployment",
-              "langchain4j-tutorials/33-advanced-rag-techniques",
-              "langchain4j-tutorials/34-agent-and-tool-use",
-              "langchain4j-tutorials/35-multimodal-applications"
+              "docs/31-custom-model-integration",
+              "docs/32-local-model-deployment",
+              "docs/33-advanced-rag-techniques",
+              "docs/34-agent-and-tool-use",
+              "docs/35-multimodal-applications"
             ]
           },
           {
