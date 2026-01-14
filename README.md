@@ -8,7 +8,9 @@ description: '项目介绍'
 > 版权归属于 LangChat Team  
 > 官网：https://langchat.cn
 
-在线文档：[https://ai-tutorials.langchat.cn/](https://ai-tutorials.langchat.cn/)
+- Github开源：[https://github.com/LangChat/ai-tutorials](https://github.com/LangChat/ai-tutorials)
+- Gitee开源：[https://gitee.com/LangChat/ai-tutorials](https://gitee.com/LangChat/ai-tutorials)
+- 在线文档：[https://ai-tutorials.langchat.cn/](https://ai-tutorials.langchat.cn/)
 
 添加微信交流群：LangchainChat（备注langchain4j学习）
 
