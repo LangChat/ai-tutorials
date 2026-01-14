@@ -10,6 +10,8 @@ description: '项目介绍'
 
 在线文档：[https://ai-tutorials.langchat.cn/](https://ai-tutorials.langchat.cn/)
 
+添加微信交流群：LangchainChat（备注langchain4j学习）
+
 ## 项目介绍
 
 这是一个独立的 Java 项目，用于存放 LangChain4j 学习路径中所有文档涉及的测试代码和示例，让开发人员能够快速运行和测试 LangChain4j 的各种功能。
