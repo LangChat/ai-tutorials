@@ -1,0 +1,195 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "LangChat AI Learning",
+  "colors": {
+    "primary": "#0060FF",
+    "light": "#688FE8",
+    "dark": "#0034FF"
+  },
+  "favicon": "/favicon.ico",
+  "background": {
+    "decoration": "gradient",
+    "color": {
+      "dark": "#0b0c0f"
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "LangChain4j 学习",
+        "groups": [
+          {
+            "group": "关于",
+            "pages": [
+              "README"
+            ]
+          },
+          {
+            "group": "基础入门",
+            "pages": [
+              "docs/01-introduction-to-langchain4j",
+              "docs/02-your-first-chat-application"
+            ]
+          },
+          {
+            "group": "核心概念",
+            "pages": [
+              "docs/03-deep-dive-into-chatmodel",
+              "docs/04-model-parameters-configuration",
+              "docs/05-chatmessage-types-explained",
+              "docs/06-chatmemory-conversation-management",
+              "docs/07-embedding-model-and-vectors",
+              "docs/08-embedding-store-and-vector-storage",
+              "docs/09-tools-and-function-calling",
+              "docs/10-rag-retrieval-augmented-generation",
+              "docs/11-ai-services-explained",
+              "docs/12-streaming-output-detailed"
+            ]
+          },
+          {
+            "group": "高级功能",
+            "pages": [
+              "docs/13-classification",
+              "docs/14-json-handling",
+              "docs/15-logging",
+              "docs/16-observability",
+              "docs/17-image-models",
+              "docs/18-customizable-http-client",
+              "docs/19-structured-outputs"
+            ]
+          },
+          {
+            "group": "工程实践",
+            "pages": [
+              "docs/20-testing-and-evaluation",
+              "docs/21-error-handling-and-retry",
+              "docs/22-guardrails",
+              "docs/23-spring-boot-integration",
+              "docs/24-websocket-real-time-communication",
+              "docs/25-performance-optimization"
+            ]
+          },
+          {
+            "group": "生产部署",
+            "pages": [
+              "docs/26-security-and-authentication",
+              "docs/27-deployment-and-operations",
+              "docs/28-cost-optimization",
+              "docs/29-troubleshooting",
+              "docs/30-other-model-providers"
+            ]
+          },
+          {
+            "group": "高级主题",
+            "pages": [
+              "docs/31-custom-model-integration",
+              "docs/32-local-model-deployment",
+              "docs/33-advanced-rag-techniques",
+              "docs/34-agent-and-tool-use",
+              "docs/35-multimodal-applications"
+            ]
+          },
+          {
+            "group": "项目实战",
+            "pages": [
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "LangChat官网",
+          "href": "https://langchat.cn",
+          "icon": "book-open-cover"
+        },
+        {
+          "anchor": "Github",
+          "href": "https://gitee.com/langchat/langchat",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/images/fulllogo.png",
+    "dark": "/images/fulllogo-dark.png"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "开源地址",
+        "href": "https://github.com/langchat/langchain4j-learning"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "LangChat",
+      "href": "https://langchat.cn"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude"
+    ]
+  },
+  "footer": {
+    "socials": {
+      "github": "https://gitee.com/langchat/langchat/",
+      "linkedin": "https://langchat.cn/"
+    },
+    "links": [
+      {
+        "header": "Company",
+        "items": [
+          {
+            "label": "LangChat官网",
+            "href": "https://langchat.cn/"
+          },
+          {
+            "label": "LangChat商业白皮书",
+            "href": "https://langchat.cn/introduce"
+          },
+          {
+            "label": "LangChat开源地址",
+            "href": "https://gitee.com/langchat/langchat"
+          }
+        ]
+      },
+      {
+        "header": "Resources",
+        "items": [
+          {
+            "label": "Github",
+            "href": "https://github.com/langchat/langchat"
+          },
+          {
+            "label": "Gitee",
+            "href": "https://gitee.com/langchat/langchat"
+          },
+          {
+            "label": "LangChain4j",
+            "href": "https://github.com/langchain4j/langchain4j"
+          }
+        ]
+      }
+    ]
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-XXXXXXXXXX"
+    },
+    "telemetry": {
+      "enabled": true
+    },
+    "cookies": {
+      "key": "example_cookie_key",
+      "value": "example_cookie_value"
+    }
+  }
+}
