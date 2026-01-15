@@ -120,7 +120,11 @@
   "navbar": {
     "links": [
       {
-        "label": "开源地址",
+        "label": "Gitee开源",
+        "href": "https://gitee.com/LangChat/ai-tutorials"
+      },
+      {
+        "label": "Github开源",
         "href": "https://github.com/LangChat/ai-tutorials"
       }
     ],
