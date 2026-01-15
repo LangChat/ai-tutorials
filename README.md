@@ -12,7 +12,7 @@ description: '项目介绍'
 - Gitee开源：[https://gitee.com/LangChat/ai-tutorials](https://gitee.com/LangChat/ai-tutorials)
 - 在线文档：[https://ai-tutorials.langchat.cn/](https://ai-tutorials.langchat.cn/)
 
-添加微信交流群：LangchainChat（备注langchain4j学习）
+**加入微信交流群：LangchainChat（备注：AI应用开发学习）**
 
 ## 项目介绍
 
